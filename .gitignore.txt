@@ -1,0 +1,9 @@
+# Ignorar ambientes virtuais
+venv/
+
+# Ignorar arquivos de cache
+__pycache__/
+
+# Ignorar arquivos grandes
+*.dll
+*.pyd
